@@ -14,9 +14,10 @@
 -   git status 
 -   git status s (short version)
 -   git add .
-  
+-   git restore "filename" (restore to previous version)
+-   git commit -m "initial commit" (message)
+-   git add "filemame", git commit -m "changes" | git commmit -a -m "add something"
 ## git info
 -   U = untracked
 -   A = Added
--   S = staged
 -   M = Modified
