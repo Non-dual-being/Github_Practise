@@ -19,6 +19,10 @@
 -   git add "filemame", git commit -m "changes" | git commmit -a -m "add something"
 -   git config credentials.helper 'cache -timeout-36000' (default=900)
 -   git config --global credential.helper 'cache --timeout=72000'
+-   git commit -v --amend change commit names
+-   git branch --list
+-   git checkout "branchname"
+-   git branch -D "nameofthebranch to delete it"
 ## git info
 -   U = untracked
 -   A = Added
